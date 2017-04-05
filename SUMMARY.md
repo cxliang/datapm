@@ -6,6 +6,8 @@
   * [数据产品架构](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
   * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
 * [第 2 章 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
+  * 数据采集
+  * 数据清洗
 * 第 3 章 数据存储/计算
 * 第 4 章 数据分析
 * [第 5 章 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
