@@ -8,6 +8,7 @@
 * [第 2 章 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
   * 数据采集
   * 数据清洗
+  * 元数据管理
 * 第 3 章 数据存储/计算
 * 第 4 章 数据分析
 * [第 5 章 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
