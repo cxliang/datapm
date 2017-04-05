@@ -4,7 +4,7 @@
 * [第一章 数据产品概览](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据产品分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
   * [数据产品架构](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
-  * [数据产品修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
+  * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
 * [第 2 章 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
 * 第 3 章 数据存储/计算
 * 第 4 章 数据分析
