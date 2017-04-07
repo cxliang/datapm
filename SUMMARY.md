@@ -25,6 +25,7 @@
 * 第 7 章 数据落地业务
 * [第 8 章 优秀数据产品介绍](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao.md)
   * [Domo](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao/domo.md)
+  * [知名数据产品汇总](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao/zhi-ming-shu-ju-chan-pin-hui-zong.md)
 * 第 9 章 数据产品经理能力模型
 * 第 10 章 数据统计术语
 
