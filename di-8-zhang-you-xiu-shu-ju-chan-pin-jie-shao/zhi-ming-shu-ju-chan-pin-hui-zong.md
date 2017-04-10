@@ -1,9 +1,8 @@
-  
-
+# 知名数据分析产品汇总
 
 > Github 上 有位 Onur Akpolat 同学对国外所有知名工具做了汇总，并做了大概的分类，repositories 叫 awesome-analytics，相当贴心。在这里和大家分享。原链接[在此](https://github.com/onurakpolat/awesome-analytics#awesome-analytics)，可能需要梯子，同时还有姐妹项目叫 awesome-bigdata，推荐大家关注
 
-## General analytics
+## 普适分析工具
 
 * [Hotjar](https://www.hotjar.com/)
   * new and easy way to truly understand your web and mobile site visitors.
@@ -36,9 +35,7 @@
 * [Gauges](http://get.gaug.es/)
   * real-time web analytics tool.
 * [Indicative](http://www.indicative.com/)
-  * Web 
-    &
-    mobile analytics tool.
+  * Web & mobile analytics tool.
 * [Open Web Analytics](http://www.openwebanalytics.com/)
   * open source web app analytics tool.
 * [Statcountr](http://statcounter.com/)
@@ -64,7 +61,7 @@
 * [Sitespect](http://www.sitespect.com/)
   * full-suite web app analytics tool including A/B testing.
 
-## Heatmap analytics
+## 热力图分析
 
 * [Reinviorate](https://www.reinvigorate.net/)
   * real-time analytics tool with heatmaps.
@@ -81,7 +78,7 @@
 * [Heatmaps for Mobile Websites](http://heatdata.com/)
   * heatmaps tool for mobile apps and mobile websites.
 
-## Analytics layers
+## 分析集成
 
 * [Keen.io](http://adjust.com/)
   * custom-analytics API.
@@ -90,7 +87,7 @@
 * [Segment.io](http://segment.io/)
   * helps you integrate multiple app analytics tool with one piece of code.
 
-## Mobile analytics
+## 移动分析
 
 The tools listed here are not necessarily mobile analytics tools only. However they show a strong mobile focus.
 
@@ -129,7 +126,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [GameAnalytics](http://www.gameanalytics.com/)
   * leading game analytics platform.
 
-## App store analytics
+## App store 分析
 
 * [Appfigures](http://appfigures.com/)
   * app store analytics to track sales, reviews and rankings with an API.
@@ -148,7 +145,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Apptrace](http://www.apptrace.com/)
   * fast and free app store analytics platform.
 
-## Attribution tracking
+## 归因分析
 
 * [Adjust](http://adjust.com/)
   * open-source SDK with sophisticated analysis and campaign tracking.
@@ -157,7 +154,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/)
   * attribution analytics platform.
 
-## Social media analytics
+## 社交媒体分析
 
 Often there is no clear differentiation between social media management and analytics as most the tools provide analytics.
 
@@ -184,7 +181,7 @@ Often there is no clear differentiation between social media management and anal
 * [Sproutsocial](http://sproutsocial.com/)
   * Social media management and analytics platform.
 
-## Analytics dashboards
+## 分析仪表盘
 
 * [Freeboard](https://github.com/Freeboard/freeboard)
   * open source real-time dashboard builder for IOT and other web mashups.
@@ -192,6 +189,88 @@ Often there is no clear differentiation between social media management and anal
   * dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/)
   * visualize and share the data that matters most to you and your team.
+
+
+
+
+
+  
+将 ToB 数据分析产品按照数据源和数据分析方式分为了用户数据分析，营销数据分析，垂直行业分析，平台内数据分析，数据提供/分析，全链条覆盖，数据可视化。
+
+# 用户数据分析类
+
+特点是：通过在客户产品里内嵌 SDK 来收集数据并产出分析结果。这是目前存在最多的产品类别，还会根根据不同特点来突出自己。
+
+* 用户行为分析
+* * GrowingiO
+  * 神策
+  * [Mixpanel](https://mixpanel.com/)
+    * * fully featured mobile analytics platform with segmentation and push.
+    * 
+  * amplitude
+* 实时行为分析
+* * Gosquared
+  * Chartbeat
+* 应用统计分析
+* * 友盟
+  * TalkingData
+  * 百度统计
+  * Flurry
+* 常用分析工具
+* * 漏斗
+  * 留存
+  * 页面流/事件流
+  * 多维数据分析
+* 数据实验分析
+* * 特点：需要对线上产品做出改变，通过改变来收集数据，进行试验
+  * A/B Test/多变量测试
+  * * 吆喝科技
+    * Optimizely
+
+* 营销数据分析
+* * 广告分析类
+  * * 搜索引擎广告
+    * 线下广告
+  * 线上活动分析类
+  * 线下活动分析类
+  * * 优惠活动
+* 顾客数据分析
+* * 忠诚度分析
+  * 顾客来源分析
+* 平台工具分析类
+* * 特点：由客户所依附平台的分析客户在平台活动的数据，这往往产生于平台内部，针对性很强
+  * 生意参谋
+  * 生意宝
+  * 京东分析工具
+* 全链条覆盖类
+* * 特点是：提供数据技术及产品为依托，覆盖整个数据产业链的上中下游
+  * 数加
+* 数据接入类
+* * 特点：不自己生产数据，主要通过客户使用的各种程序的自动化接口或数据库，把数据上传到产品中。产品再对数据进行清洗，处理，展现。相比于下一类，适用场景较广
+  * Domo
+  * Sisense
+  * 海致DSP
+  * Looker
+  * Thoughtspot
+  * * 期待通过搜索框可以解答大部分问题
+* 数据提供类
+* * 特点：不需要客户任何数据或需要的很少。通过客户的某种需求，对第三方数据进行挖掘或机器学习等提供 insight。适用场景少，复用性低
+  * Palantir
+  * * 对接客户部分数据，结合第三方数据进行风险控制，反欺诈，金融问题追踪，精准营销等服务
+  * 第四范式
+  * * 对接客户部分数据，结合第三方数据提供风险评估或做精准营销
+  * Everstring
+  * * 对接客户CRM数据，并与自己的第三方建模数据进行匹配后为客户提供销售成功性打分，提高销售成功率
+* 数据可视化类
+* * 特点：客户无需上传数据到产品中，只需导入数据做可视化即可。或者单纯提供数据可视化组件
+  * Tableau
+  * Excel
+    &
+    PowerBI
+  * 可视化组件
+  * * D3.js
+    * Highchair
+    * G2.js
 
 
 
