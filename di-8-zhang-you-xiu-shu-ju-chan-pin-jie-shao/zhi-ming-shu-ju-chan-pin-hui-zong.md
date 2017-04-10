@@ -190,11 +190,6 @@ Often there is no clear differentiation between social media management and anal
 * [Ducksboard](https://ducksboard.com/)
   * visualize and share the data that matters most to you and your team.
 
-
-
-
-
-  
 将 ToB 数据分析产品按照数据源和数据分析方式分为了用户数据分析，营销数据分析，垂直行业分析，平台内数据分析，数据提供/分析，全链条覆盖，数据可视化。
 
 # 用户数据分析类
@@ -226,8 +221,8 @@ Often there is no clear differentiation between social media management and anal
   * A/B Test/多变量测试
   * * 吆喝科技
     * Optimizely
-
 * 营销数据分析
+
 * * 广告分析类
   * * 搜索引擎广告
     * 线下广告
