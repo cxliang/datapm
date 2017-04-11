@@ -26,6 +26,7 @@
 * [第 8 章 优秀数据产品介绍](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao.md)
   * [Domo](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao/domo.md)
   * [知名数据分析产品汇总](di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao/zhi-ming-shu-ju-chan-pin-hui-zong.md)
-* 第 9 章 数据产品经理能力模型
+* [第 9 章 数据产品经理能力模型](di-9-zhang-shu-ju-chan-pin-jing-li-neng-li-mo-xing.md)
+  * [初级数据产品经理进阶之路](di-9-zhang-shu-ju-chan-pin-jing-li-neng-li-mo-xing/chu-ji-shu-ju-chan-pin-jing-li-jin-jie-zhi-lu.md)
 * 第 10 章 数据统计术语
 
