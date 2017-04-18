@@ -9,7 +9,8 @@
 * [第 2 章 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
   * 数据采集
   * [数据清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi/shu-ju-qing-xi.md)
-  * 元数据管理
+  * [元数据管理](di-2-zhang-shu-ju-cai-96c6-qing-xi/yuan-shu-ju-guan-li.md)
+  * [指标体系](di-2-zhang-shu-ju-cai-96c6-qing-xi/zhi-biao-ti-xi.md)
 * 第 3 章 数据存储/计算
 * [第 4 章 数据分析](di-4-zhang-shu-ju-fen-xi.md)
   * 分析主题
