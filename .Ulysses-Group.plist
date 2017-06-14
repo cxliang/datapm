@@ -16,9 +16,6 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>如何设计你的数据产品门户 — 仪表盘.md</string>
-		</array>
-		<array>
 			<string>di-2-zhang-shu-ju-cai-96c6-qing-xi.md</string>
 		</array>
 		<array>
@@ -47,6 +44,9 @@
 		</array>
 		<array>
 			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>dashboard-she-ji.md</string>
 		</array>
 	</array>
 </dict>
