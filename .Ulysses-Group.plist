@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>di-2-zhang-shu-ju-cai-96c6-qing-xi</string>
+		<string>di-4-zhang-shu-ju-fen-xi</string>
+		<string>di-6-zhang-shu-ju-chan-pin-she-ji</string>
+		<string>di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao</string>
+		<string>di-9-zhang-shu-ju-chan-pin-jing-li-neng-li-mo-xing</string>
+		<string>di-yi-zhang-shu-ju-chan-pin-gai-lan</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>如何设计你的数据产品门户 — 仪表盘.md</string>
+		</array>
+		<array>
+			<string>di-2-zhang-shu-ju-cai-96c6-qing-xi.md</string>
+		</array>
+		<array>
+			<string>di-4-zhang-shu-ju-fen-xi.md</string>
+		</array>
+		<array>
+			<string>di-5-zhang-shu-ju-ke-shi-hua.md</string>
+		</array>
+		<array>
+			<string>di-6-zhang-shu-ju-chan-pin-she-ji.md</string>
+		</array>
+		<array>
+			<string>di-8-zhang-you-xiu-shu-ju-chan-pin-jie-shao.md</string>
+		</array>
+		<array>
+			<string>di-9-zhang-shu-ju-chan-pin-jing-li-neng-li-mo-xing.md</string>
+		</array>
+		<array>
+			<string>di-yi-zhang-shu-ju-chan-pin-gai-lan.md</string>
+		</array>
+		<array>
+			<string>hua-xiang-ji-zhu.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>SUMMARY.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
