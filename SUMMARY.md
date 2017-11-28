@@ -12,7 +12,7 @@
   * [分析工具](di-4-zhang-shu-ju-fen-xi/fen-xi-gong-ju.md)
   * [用户分析及应用](di-4-zhang-shu-ju-fen-xi/yong-hu-fen-xi.md)
     * [用户分析](di-4-zhang-shu-ju-fen-xi/yong-hu-duo-wei-fen-xi.md)
-    * [用户运营](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying.md)
+    * [用户运营方法](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying-fang-fa.md)
     * [用户数据的应用](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying.md)
 * [1-4 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
   * 华尔街可视化方案
