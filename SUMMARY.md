@@ -10,6 +10,7 @@
   * 数据存储
 * [1-3 数据分析](di-4-zhang-shu-ju-fen-xi.md)
   * [分析工具](di-4-zhang-shu-ju-fen-xi/fen-xi-gong-ju.md)
+  * [分析方法论-基础篇](di-4-zhang-shu-ju-fen-xi/fen-xi-fang-fa-8bba-ji-chu-pian.md)
   * [用户分析及应用](di-4-zhang-shu-ju-fen-xi/yong-hu-fen-xi.md)
     * [用户分析](di-4-zhang-shu-ju-fen-xi/yong-hu-duo-wei-fen-xi.md)
     * [用户运营方法](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying-fang-fa.md)
