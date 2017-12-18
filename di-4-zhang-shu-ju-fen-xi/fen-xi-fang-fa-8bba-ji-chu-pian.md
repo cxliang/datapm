@@ -44,9 +44,7 @@
 
 在一个规范的指标体系中，已经涉及到元数据管理的领域了。包括针对指标命名的规范，数据存储和计算的管理等等。大家有兴趣地可以搜下相关文章，或阅读阿里巴巴新出的《阿里巴巴大数据实践之路》。下面截取一张来自云栖大会的，关于指标命名规范的 PPT 给大家：![](http://image.woshipm.com/wp-files/2017/12/7pYMVSbCvyCnh600GKik.png)
 
-### 1.1.3 建设指标维度字典
-
-![](http://image.woshipm.com/wp-files/2017/12/yQg0jTMktuueiZz6GMSx.jpeg)
+### 1.1.3 建设指标维度字典![](http://image.woshipm.com/wp-files/2017/12/yQg0jTMktuueiZz6GMSx.jpeg)
 
 ![](http://image.woshipm.com/wp-files/2017/12/ocz9PtOoL0CIE8KQG0ih.jpeg)这里是转转公司早期部分的指标维度字典，（Bus Matrix），一定程度上解决了之前公司内对于指标定义不清或不统一的问题。现在这套东西已经产品化，可以在可视化产品中查看和显示了。
 
