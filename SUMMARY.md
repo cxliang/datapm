@@ -25,6 +25,7 @@
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
   * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
   * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
+  * 数据平台的安全与权限
 * [2-2 数据产品](di-6-zhang-shu-ju-chan-pin-she-ji.md)
   * [Dashboard](dashboard-she-ji.md)
   * [实时页面](di-6-zhang-shu-ju-chan-pin-she-ji/shi-shi-ye-mian.md)
@@ -34,6 +35,6 @@
   * 页面流
 * [3-1 数据产品经理的修炼](3-1-shu-ju-chan-pin-jing-li-de-xiu-lian.md)
   * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
-* 3-2 数据分析师的修炼之路
-* 3-3 数据统计术语
+  * [数据分析师的修炼之路](3-2-shu-ju-fen-xi-shi-de-xiu-lian-zhi-lu.md)
+* [3-2 数据统计术语](3-3-shu-ju-tong-ji-zhu-yu.md)
 
