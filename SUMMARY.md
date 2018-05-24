@@ -36,5 +36,6 @@
 * [3-1 数据产品经理的修炼](3-1-shu-ju-chan-pin-jing-li-de-xiu-lian.md)
   * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
   * [数据分析师的修炼之路](3-2-shu-ju-fen-xi-shi-de-xiu-lian-zhi-lu.md)
+  * [常见分析模型](di-yi-zhang-shu-ju-chan-pin-gai-lan/chang-jian-fen-xi-mo-xing.md)
 * [3-2 数据统计术语](3-3-shu-ju-tong-ji-zhu-yu.md)
 
