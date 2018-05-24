@@ -17,11 +17,14 @@
     * [用户数据的应用](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying.md)
 * [1-4 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
   * [华尔街可视化方案](di-5-zhang-shu-ju-ke-shi-hua/hua-er-jie-ke-shi-hua-fang-an.md)
+* 1-5 数据挖掘
+  * 智能异常分析
+  * 回归分析
+  * 决策树及应用
 * [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
+  * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
   * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
-  * [数据产品分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
-  * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
 * [2-2 数据产品](di-6-zhang-shu-ju-chan-pin-she-ji.md)
   * [Dashboard](dashboard-she-ji.md)
   * [实时页面](di-6-zhang-shu-ju-chan-pin-she-ji/shi-shi-ye-mian.md)
@@ -29,6 +32,8 @@
   * [漏斗](lou-dou.md)
   * 留存
   * 页面流
-* [2-3 数据落地业务](2-3-shu-ju-luo-di-ye-wu.md)
-  * [画像技术](hua-xiang-ji-zhu.md)
+* [3-1 数据产品经理的修炼](3-1-shu-ju-chan-pin-jing-li-de-xiu-lian.md)
+  * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
+* 3-2 数据分析师的修炼之路
+* 3-3 数据统计术语
 
