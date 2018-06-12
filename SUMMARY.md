@@ -11,10 +11,13 @@
 * [1-3 数据分析](di-4-zhang-shu-ju-fen-xi.md)
   * [分析工具](di-4-zhang-shu-ju-fen-xi/fen-xi-gong-ju.md)
   * [分析方法论-基础篇](di-4-zhang-shu-ju-fen-xi/fen-xi-fang-fa-8bba-ji-chu-pian.md)
+  * [分析方法论-进阶篇](di-4-zhang-shu-ju-fen-xi/fen-xi-fang-fa-8bba-jin-jie-pian.md)
   * [用户分析及应用](di-4-zhang-shu-ju-fen-xi/yong-hu-fen-xi.md)
     * [用户分析](di-4-zhang-shu-ju-fen-xi/yong-hu-duo-wei-fen-xi.md)
-    * [用户运营方法](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying-fang-fa.md)
-    * [用户数据的应用](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying.md)
+    * [用户标签](di-4-zhang-shu-ju-fen-xi/yong-hu-biao-qian.md)
+    * [用户运营](di-4-zhang-shu-ju-fen-xi/yong-hu-yun-ying-fang-fa.md)
+  * 交易分析及应用
+  * 商品分析及应用
 * [1-4 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
   * [华尔街可视化方案](di-5-zhang-shu-ju-ke-shi-hua/hua-er-jie-ke-shi-hua-fang-an.md)
 * 1-5 数据挖掘
