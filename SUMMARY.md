@@ -19,7 +19,7 @@
   * [华尔街可视化方案](di-5-zhang-shu-ju-ke-shi-hua/hua-er-jie-ke-shi-hua-fang-an.md)
 * [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
-  * [企业数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/qi-ye-shu-ju-ping-tai.md)
+  * [企业数据平台](test.md)
   * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
   * [数据产品分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
   * [数据 PM 修炼之路](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-xiu-lian-zhi-lu.md)
@@ -32,5 +32,4 @@
   * 页面流
 * [2-3 数据落地业务](2-3-shu-ju-luo-di-ye-wu.md)
   * [画像技术](hua-xiang-ji-zhu.md)
-* [test](test.md)
 
