@@ -21,11 +21,12 @@
 * [1-4 数据可视化](di-5-zhang-shu-ju-ke-shi-hua.md)
   * [华尔街可视化方案](di-5-zhang-shu-ju-ke-shi-hua/hua-er-jie-ke-shi-hua-fang-an.md)
 * 1-5 数据挖掘
-  * 智能异常分析
+  * [智能异常分析](zhi-neng-yi-chang-fen-xi.md)
   * 回归分析
   * 决策树及应用
 * [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
+  * 企业数据平台
   * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
   * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
   * 数据平台的安全与权限
