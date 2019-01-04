@@ -22,7 +22,7 @@
   * [华尔街可视化方案](di-5-zhang-shu-ju-ke-shi-hua/hua-er-jie-ke-shi-hua-fang-an.md)
 * 1-5 数据挖掘
   * [智能异常分析](zhi-neng-yi-chang-fen-xi.md)
-  * 回归分析
+  * [回归分析](hui-gui-fen-xi.md)
   * 决策树及应用
 * [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
@@ -42,5 +42,8 @@
   * [数据分析师的修炼之路](3-2-shu-ju-fen-xi-shi-de-xiu-lian-zhi-lu.md)
   * [常见分析模型](di-yi-zhang-shu-ju-chan-pin-gai-lan/chang-jian-fen-xi-mo-xing.md)
 * [3-2 数据统计术语](3-3-shu-ju-tong-ji-zhu-yu.md)
-* 3-3 优秀产品借鉴
+* [3-3 优秀产品借鉴](3-3-you-xiu-chan-pin-jie-jian.md)
+  * [Domo-用户体验最佳的 BI 平台](domoyong-hu-ti-yan-zui-jia-de-bi-ping-tai.md)
+  * Tableau-市值最高的可视化软件
+  * Looker
 
