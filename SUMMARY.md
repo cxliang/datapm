@@ -1,6 +1,7 @@
 # Summary
 
 * [前言](README.md)
+* [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
 * [1-1 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
   * [数据采集](di-2-zhang-shu-ju-cai-96c6-qing-xi/shu-ju-cai-ji.md)
   * [数据清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi/shu-ju-qing-xi.md)
@@ -28,7 +29,6 @@
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
   * [企业数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/qi-ye-shu-ju-ping-tai.md)
   * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
-  * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
   * 数据平台的安全与权限
 * [2-2 数据产品](di-6-zhang-shu-ju-chan-pin-she-ji.md)
   * [Dashboard](dashboard-she-ji.md)
