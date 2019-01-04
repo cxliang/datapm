@@ -27,9 +27,9 @@
   * 决策树及应用
 * [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
   * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
-  * [企业数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/qi-ye-shu-ju-ping-tai.md)
   * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
-  * 数据平台的安全与权限
+  * [企业数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/qi-ye-shu-ju-ping-tai.md)
+  * [数据平台的安全与权限](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-ping-tai-de-an-quan-yu-quan-xian.md)
 * [2-2 数据产品](di-6-zhang-shu-ju-chan-pin-she-ji.md)
   * [Dashboard](dashboard-she-ji.md)
   * [实时页面](di-6-zhang-shu-ju-chan-pin-she-ji/shi-shi-ye-mian.md)
