@@ -42,4 +42,5 @@
   * [数据分析师的修炼之路](3-2-shu-ju-fen-xi-shi-de-xiu-lian-zhi-lu.md)
   * [常见分析模型](di-yi-zhang-shu-ju-chan-pin-gai-lan/chang-jian-fen-xi-mo-xing.md)
 * [3-2 数据统计术语](3-3-shu-ju-tong-ji-zhu-yu.md)
+* 3-3 优秀产品借鉴
 
