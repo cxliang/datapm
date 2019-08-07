@@ -1,13 +1,18 @@
 # Summary
 
 * [前言](README.md)
+* [0-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
+  * [数据中台的定义](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
+  * [数据中台的技术架构](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-zhong-tai-de-ji-zhu-jia-gou.md)
+  * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
 * [1-1 数据采集/清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi.md)
   * [数据采集](di-2-zhang-shu-ju-cai-96c6-qing-xi/shu-ju-cai-ji.md)
   * [数据清洗](di-2-zhang-shu-ju-cai-96c6-qing-xi/shu-ju-qing-xi.md)
   * [元数据管理](di-2-zhang-shu-ju-cai-96c6-qing-xi/yuan-shu-ju-guan-li.md)
   * [指标体系](di-2-zhang-shu-ju-cai-96c6-qing-xi/zhi-biao-ti-xi.md)
 * [1-2 数据存储/计算](di-3-zhang-shu-ju-cun-50a8-ji-suan.md)
-  * 数据存储
+  * [数据库](di-3-zhang-shu-ju-cun-50a8-ji-suan/shu-ju-cun-chu.md)
+  * 数据仓库
 * [1-3 数据分析](di-4-zhang-shu-ju-fen-xi.md)
   * [分析工具](di-4-zhang-shu-ju-fen-xi/fen-xi-gong-ju.md)
   * [分析方法论-基础篇](di-4-zhang-shu-ju-fen-xi/fen-xi-fang-fa-8bba-ji-chu-pian.md)
@@ -24,13 +29,13 @@
   * [智能异常分析](zhi-neng-yi-chang-fen-xi.md)
   * 回归分析
   * 决策树及应用
-* [2-1 数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan.md)
-  * [数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-jia-gou.md)
-  * 企业数据平台
+* [2-1 数据平台分类](2-1-shu-ju-ping-tai-fen-lei.md)
   * [数据平台的分类](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-chan-pin-fen-lei.md)
-  * [数据和数据产品的概念](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-he-shu-ju-chan-pin-de-gai-nian.md)
-  * 数据平台的安全与权限
-* [2-2 数据产品](di-6-zhang-shu-ju-chan-pin-she-ji.md)
+  * [企内数据平台](di-yi-zhang-shu-ju-chan-pin-gai-lan/qi-ye-shu-ju-ping-tai.md)
+  * [商用数据产品](di-yi-zhang-shu-ju-chan-pin-gai-lan/shang-yong-shu-ju-chan-pin.md)
+  * 用户数据产品
+  * [数据平台的安全与权限](di-yi-zhang-shu-ju-chan-pin-gai-lan/shu-ju-ping-tai-de-an-quan-yu-quan-xian.md)
+* [2-2 数据产品功能](di-6-zhang-shu-ju-chan-pin-she-ji.md)
   * [Dashboard](dashboard-she-ji.md)
   * [实时页面](di-6-zhang-shu-ju-chan-pin-she-ji/shi-shi-ye-mian.md)
   * [多维分析](duo-wei-fen-xi.md)
