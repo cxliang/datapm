@@ -12,7 +12,7 @@
   * [指标体系](di-2-zhang-shu-ju-cai-96c6-qing-xi/zhi-biao-ti-xi.md)
 * [1-2 数据存储/计算](di-3-zhang-shu-ju-cun-50a8-ji-suan.md)
   * [数据库](di-3-zhang-shu-ju-cun-50a8-ji-suan/shu-ju-cun-chu.md)
-  * 数据仓库
+  * [数据仓库](di-3-zhang-shu-ju-cun-50a8-ji-suan/shu-ju-cang-ku.md)
 * [1-3 数据分析](di-4-zhang-shu-ju-fen-xi.md)
   * [分析工具](di-4-zhang-shu-ju-fen-xi/fen-xi-gong-ju.md)
   * [分析方法论-基础篇](di-4-zhang-shu-ju-fen-xi/fen-xi-fang-fa-8bba-ji-chu-pian.md)
