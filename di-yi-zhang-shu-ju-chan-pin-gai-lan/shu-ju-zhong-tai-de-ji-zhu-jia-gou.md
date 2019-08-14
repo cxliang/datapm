@@ -52,7 +52,7 @@
    2. 日志---&gt;Flume---&gt;离线计算（如ODPS、HDFS、HBase）
    3. 日志---&gt;Flume---&gt;ElasticSearch等
 
-   下面结合一个大数据实时处理系统（Flume+Kafka+Spark Streaming+Redis）阐述下Flume在实际应用中所扮演的重要角色。该实时处理系统整体架构如下：通过部署在web 服务器上的agent 将数据传动到
+   下面结合一个大数据实时处理系统（Flume+Kafka+Spark Streaming+Redis）阐述下Flume在实际应用中所扮演的重要角色。该实时处理系统整体架构如下：通过部署在web 服务器上的agent监测新增的日志数据，就会被我们的Flume程序监听到，并且最终会传输到Kafka的f-k-s topic中，通过Flume强大的数据采集功能，为整个实时处理系统提供了数据保障，之后就可以进行后续的一系列操作。
 
    ![](/assets/flume-topic.png)
 
